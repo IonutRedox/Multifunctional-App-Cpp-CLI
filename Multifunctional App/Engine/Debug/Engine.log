@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+c:\users\redox\desktop\my project - proiect 11\engine\src\Engine.h(221): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\redox\desktop\my project - proiect 11\engine\src\Engine.h(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\redox\desktop\my project - proiect 11\engine\src\Engine.h(233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+.NETFramework,Version=v4.0.AssemblyAttributes.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Engine.vcxproj -> C:\Users\Redox\Desktop\My project - proiect 11\Debug\Engine.lib
